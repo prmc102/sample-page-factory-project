@@ -60,7 +60,7 @@ public class CustomListeners implements ITestListener {
         reports.setSystemInfo("User Name", System.getProperty("user.name"));
         reports.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
         reports.setSystemInfo("Machine", "Windows 10" + "64 Bit");
-        reports.setSystemInfo("Selenium", "3.141.59");
+        reports.setSystemInfo("Selenium", "4.10.0");
         reports.setSystemInfo("Maven", "3.5.9");
         reports.setSystemInfo("Java Version", "1.8.0_151");
 
