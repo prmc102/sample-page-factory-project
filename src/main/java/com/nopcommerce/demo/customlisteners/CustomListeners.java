@@ -63,7 +63,6 @@ public class CustomListeners implements ITestListener {
         reports.setSystemInfo("Selenium", "4.10.0");
         reports.setSystemInfo("Maven", "3.5.9");
         reports.setSystemInfo("Java Version", "1.8.0_151");
-
     }
 
     @Override
